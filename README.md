@@ -5,13 +5,13 @@ This project documents the complete, **from-scratch** creation of a fully custom
 ## ✨ What Makes This Project Special?
 
 - 🔧 **Built entirely from scratch**: No pre-made kits were used—everything was sourced, designed, or assembled by hand.
-- 🖨️ **3D-printed molds and components**: All molds for the case were designed and printed using a 3D printer. The case mold bases were printed in PLA with an FDM printer.
+- 🖨️ **3D-printed molds and components**: All [molds](https://www.thingiverse.com/thing:4283186) for the case were printed using a 3D printer. The case mold bases were printed in PLA with an FDM printer.
 - 🎨 **Custom-designed, resin-printed keycaps**: Keycaps were printed using a **resin printer** with **mechanical-grade resin** for durability. The engraved symbols are painted **white from the inside** to make them stand out through the semi-transparent surface.
 - 🐧 **Custom SUPER key**: Includes a special keycap featuring the **Linux penguin** for the SUPER key.
 - 🧱 **Resin case with alcohol ink dyes**: The case was cast in resin using silicone molds and **tinted with alcohol-based dyes**, producing a cloud-like mix of black and blue tones.
 - ⌨️ **Custom QMK firmware**: Powered by [QMK Firmware](https://qmk.fm/), fully programmable via the [ZSA Configurator](https://configure.zsa.io/ergodox-ez/layouts/6pvpn/latest/0).
 - 🔌 **Coiled interconnect cable**: The cable between the two halves of the keyboard is coiled manually to keep the setup **clean and tidy**.
-- ⛺ **Tent kit support**: This build includes a [tenting kit](https://www.zsa.io/tenting/) for ergonomic tilt and wrist comfort *(not visible in the photos yet, as it's pending black paint)*.
+- ⛺ **Tent kit support**: This build includes a [tenting kit](https://www.thingiverse.com/thing:4241793) for ergonomic tilt and wrist comfort *(not visible in the photos yet, as it's pending black paint)*.
 
 ## 🧩 Project Components
 
@@ -82,6 +82,15 @@ Keycaps can also be downloaded from my Printables profile:
 
 This build uses a custom layout for the Ergodox EZ. You can view and customize it via the ZSA online configurator:
 👉 [View Layout](https://configure.zsa.io/ergodox-ez/layouts/6pvpn/latest/0)
+
+## 🙏 Acknowledgments
+
+Special thanks to **Iñigo Bilbao** for his invaluable help in designing the silicone molds and working with resin casting. This project wouldn’t have been possible without his guidance and collaboration during the case fabrication process.
+
+## 🔧 Further Resources
+
+For a detailed guide on the required materials, PCB assembly, and soldering process, please refer to the official ErgoDox documentation:  
+🔗 [https://www.ergodox.io/](https://www.ergodox.io/)
 
 ## 📃 License
 
