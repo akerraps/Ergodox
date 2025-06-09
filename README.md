@@ -80,12 +80,12 @@ Keycaps can also be downloaded from my Printables profile:
 
 ## 🧠 Keyboard Layout
 
-This build uses a custom layout for the Ergodox EZ. You can view and customize it via the ZSA online configurator:
+This build uses a custom layout for the Ergodox EZ to be used on my [hyprland config](https://github.com/akerraps/hyprconfig). You can view and customize it via the ZSA online configurator:
 👉 [View Layout](https://configure.zsa.io/ergodox-ez/layouts/6pvpn/latest/0)
 
 ## 🙏 Acknowledgments
 
-Special thanks to **Iñigo Bilbao** for his invaluable help in designing the silicone molds and working with resin casting. This project wouldn’t have been possible without his guidance and collaboration during the case fabrication process.
+Special thanks to **Iñigo Alonso Bilbao** for his invaluable help in designing the silicone molds and working with resin casting and resin printing my keycaps. This project wouldn’t have been possible without his guidance and collaboration during the case fabrication process.
 
 ## 🔧 Further Resources
 
