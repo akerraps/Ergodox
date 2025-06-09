@@ -32,7 +32,7 @@ This project documents the complete, **from-scratch** creation of a fully custom
 
 A selection of photos documenting the final build:
 
-### 🔥 Back View (highlighted)
+### 🔥 Back View
 
 These showcase the smoky, marbled finish of the resin in stunning black and blue:
 
@@ -49,11 +49,23 @@ These showcase the smoky, marbled finish of the resin in stunning black and blue
   </tr>
 </table>
 
-### 💠 Middle and Top Views
+---
+
+### 💠 Top and Middle Views
 
 Showcasing layout, coiled interconnect cable, and details of the case and keycaps:
 
 <table>
+  <tr>
+    <td align="center">
+      <img src="resources/top_0.jpeg" width="300"/><br/>
+      <em>Top 0 <br/>(rotate 90° right)</em>
+    </td>
+    <td align="center">
+      <img src="resources/top_view_2.jpg" width="300"/><br/>
+      <em>Top View 2</em>
+    </td>
+  </tr>
   <tr>
     <td align="center">
       <img src="resources/middle_1.jpeg" width="300"/><br/>
@@ -63,23 +75,6 @@ Showcasing layout, coiled interconnect cable, and details of the case and keycap
       <img src="resources/middle_2.jpeg" width="300"/><br/>
       <em>Middle 2</em>
     </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="resources/top_0.jpeg" width="300"/><br/>
-      <em>Top 0</em>
-    </td>
-    <td align="center">
-      <img src="resources/top_view_1.jpg" width="300"/><br/>
-      <em>Top View 1</em>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="resources/top_view_2.jpg" width="300"/><br/>
-      <em>Top View 2</em>
-    </td>
-    <td></td>
   </tr>
 </table>
 
