@@ -58,8 +58,8 @@ Showcasing layout, coiled interconnect cable, and details of the case and keycap
 <table>
   <tr>
     <td align="center">
-      <img src="resources/top_0.jpeg" width="300"/><br/>
-      <em>Top 0 <br/>(rotate 90° right)</em>
+      <img src="resources/top_0.jpeg" style="transform:rotate(90deg);" width="300"/><br/>
+      <em>Top 0</em>
     </td>
     <td align="center">
       <img src="resources/top_view_2.jpg" width="300"/><br/>
