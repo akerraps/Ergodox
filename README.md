@@ -40,11 +40,9 @@ These showcase the smoky, marbled finish of the resin in stunning black and blue
   <tr>
     <td align="center">
       <img src="resources/back_1.jpeg" width="300"/><br/>
-      <em>Back 1</em>
     </td>
     <td align="center">
       <img src="resources/back_2.jpeg" width="300"/><br/>
-      <em>Back 2</em>
     </td>
   </tr>
 </table>
@@ -59,21 +57,17 @@ Showcasing layout, coiled interconnect cable, and details of the case and keycap
   <tr>
     <td align="center">
       <img src="resources/top_0.jpeg" width="300"/><br/>
-      <em>Top 0</em>
     </td>
     <td align="center">
       <img src="resources/top_view_2.jpg" width="300"/><br/>
-      <em>Top View 2</em>
     </td>
   </tr>
   <tr>
     <td align="center">
       <img src="resources/middle_1.jpeg" width="300"/><br/>
-      <em>Middle 1</em>
     </td>
     <td align="center">
       <img src="resources/middle_2.jpeg" width="300"/><br/>
-      <em>Middle 2</em>
     </td>
   </tr>
 </table>
